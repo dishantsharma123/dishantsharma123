@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dishant Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishantsharma123" alt="dishantsharma123" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Developing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dishantsharma123](https://github.com/dishantsharma123)
