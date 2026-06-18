@@ -1,6 +1,7 @@
 <div align="center">
-![logo](https://capsule-render.vercel.app/api?type=waving\&color=0:0ea5e9,100:2563eb\&height=250\&section=header\&text=Welcome%20to%20my%20GitHub\&fontSize=50\&fontColor=ffffff)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=250&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=ffffff" />
 </div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00f2fe,4facfe&height=250&section=header&text=Dishant%20Sharma&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Header" />
 </div>
@@ -207,7 +208,6 @@
 <br>
 
 ## Support 
-<h3 align="left">Support:</h3>
 
 <p>
   <a href="https://www.buymeacoffee.com/dishantsharma" target="_blank">
