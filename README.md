@@ -148,6 +148,41 @@
 
 <br/>
 
+### 🤖 AI Tools I Use Daily
+<div align="center">
+<img src="https://img.shields.io/badge/Claude_Code-6d28d9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stitch_AI-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Figma_Make-A259FF?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🌐 3D Contribution Calendar
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Arpitgarg07/Arpitgarg07/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</div>
+
+<br>
+
+## 🐍 Contributions Being Devoured
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dishantsharma123/dishantsharma123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dishantsharma123/dishantsharma123/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dishantsharma123/dishantsharma123/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
 ## 📈 GitHub Statistics
 
 <table align="center">
@@ -161,7 +196,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishantsharma123&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+     ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=dishantsharma123&theme=github_dark)
     </td>
   </tr>
 </table>
@@ -173,5 +208,20 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dishantsharma123&theme=dracula&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%"/>
 </p>
+
+<br>
+
+## Support 
+<h3 align="left">Support:</h3>
+
+<p>
+  <a href="https://www.buymeacoffee.com/dishantsharma" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+         height="50"
+         width="210"
+         alt="Buy Me A Coffee" />
+  </a>
+</p>
+
 
 <h3 align="center">⭐ Thanks for visiting my profile! Let's connect and build something awesome. ⭐</h3>
