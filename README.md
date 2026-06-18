@@ -1,10 +1,11 @@
-![logo](https://capsule-render.vercel.app/api?type=waving\&color=0:0ea5e9,100:2563eb\&height=250\&section=header\&text=Welcome%20to&GitHub\&fontSize=50\&fontColor=ffffff)
+![logo](https://capsule-render.vercel.app/api?type=waving\&color=0:0ea5e9,100:2563eb\&height=250\&section=header\&text=Welcome%20to%20my%20GitHub\&fontSize=50\&fontColor=ffffff)
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=8E2DE2,3a7bd5&height=250&section=header&text=Dishant%20Sharma&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00f2fe,4facfe&height=250&section=header&text=Dishant%20Sharma&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Header" />
+</div>
   
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Enthusiast;Final+Year+B.Tech+CSE+Student;Passionate+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Enthusiast;Final+Year+B.Tech+CSE+Student;Passionate+Data+Scientist+Data+Analysts++Software+Engineer" alt="Typing SVG" />
   </a>
   <br/>
   
