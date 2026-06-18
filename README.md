@@ -1,5 +1,6 @@
+![logo](https://capsule-render.vercel.app/api?type=waving\&color=0:0ea5e9,100:2563eb\&height=250\&section=header\&text=Welcome%20to&GitHub\&fontSize=50\&fontColor=ffffff)
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00d2ff,3a7bd5&height=250&section=header&text=Dishant%20Sharma&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=8E2DE2,3a7bd5&height=250&section=header&text=Dishant%20Sharma&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Header" />
   
   <br/>
   <a href="https://git.io/typing-svg">
