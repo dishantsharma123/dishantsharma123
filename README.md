@@ -1,4 +1,6 @@
+<div align="center">
 ![logo](https://capsule-render.vercel.app/api?type=waving\&color=0:0ea5e9,100:2563eb\&height=250\&section=header\&text=Welcome%20to%20my%20GitHub\&fontSize=50\&fontColor=ffffff)
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00f2fe,4facfe&height=250&section=header&text=Dishant%20Sharma&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Header" />
 </div>
@@ -161,21 +163,14 @@
 
 <br>
 
-## 🌐 3D Contribution Calendar
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Arpitgarg07/Arpitgarg07/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
-
-<br>
 
 ## 🐍 Contributions Being Devoured
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dishantsharma123/dishantsharma123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dishantsharma123/dishantsharma123/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dishantsharma123/dishantsharma123/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dishantsharma123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dishantsharma123/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dishantsharma123/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 </div>
 
@@ -196,7 +191,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-     ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=dishantsharma123&theme=github_dark)
+    <img src="https://github-readme-stats.vercel.app/api?username=dishantsharma123&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
