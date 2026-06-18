@@ -1,14 +1,16 @@
+![logo](https://capsule-render.vercel.app/api?type=waving\&color=0:0ea5e9,100:2563eb\&height=250\&section=header\&text=Welcome%20to%20my%20GitHub\&fontSize=50\&fontColor=ffffff)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00f2fe,4facfe&height=250&section=header&text=Dishant%20Sharma&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Header" />
+</div>
   
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00f2fe&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Enthusiast;Final+Year+B.Tech+CSE+Student;Passionate+Data+Scientist+%26+Analyst" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Enthusiast;Final+Year+B.Tech+CSE+Student;Passionate+Data+Scientist+Data+Analysts" alt="Typing SVG" />
   </a>
   <br/>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=dishantsharma123&label=Profile%20Views&color=00f2fe&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=dishantsharma123&label=Profile%20Views&color=00d2ff&style=for-the-badge" alt="Profile Views" />
   </p>
   
   <p align="center">
@@ -157,7 +159,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=dishantsharma123&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishantsharma123&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
